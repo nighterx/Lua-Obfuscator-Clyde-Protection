@@ -14,7 +14,10 @@ A high-performance Luau obfuscation toolkit featuring full language support, mul
 </div>
 
 ---
-## Clyde V3 is currently under development and will be released soon, stronger then ever before!
+## Clyde V3 is Available!
+
+- https://clyde-v3.fun
+- https://clyde-v3.pro
 
 ## Known Skids Rebranding Clyde!! (Be Aware of Scams!)
 
